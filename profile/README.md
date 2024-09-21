@@ -9,7 +9,7 @@ It became the core IR in the HotSpot C2 JIT compiler, and is used today in nearl
 The IR inspired Google's V8 team (and thus is/has been in Chrome), the Graal compiler and other high profile compiler efforts.
 
 Despite this Sea of Nodes is not (to my knowledge) taught in compiler classes!
-This is my (and others!) effort to teach the compiler community the how's and why's of the Sea of Nodes.
+This is our effort to teach the compiler community the how's and why's of the Sea of Nodes.
 
 # Current ports (Sept 2024):
 * [The main Java repo](https://github.com/SeaOfNodes/Simple) - The most complete repo
