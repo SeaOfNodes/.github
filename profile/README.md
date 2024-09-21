@@ -4,8 +4,9 @@ Each repo is a port of the Simple compiler from its original Java port, to vario
 
 ## What's a Sea of Nodes IR?
 
-The Sea of Nodes IR is a ... compiler IR (Intermediate Representation) pioneered by Cliff Click starting around 1990, appearing as an appendix in his thesis
-It became the core IR in the HotSpot C2 JIT compiler, and is used today in nearly every JVM on the planet - and C2 runs literally *trillions* of times daily.
+The Sea of Nodes IR is a ... compiler IR (Intermediate Representation) pioneered by Cliff Click starting around 1990, appearing as an appendix in his thesis.
+It became the core IR in the HotSpot C2 JIT compiler, and *very* quickly produces high quality code.  
+C2 and the Sea of Nodes is used today in nearly every JVM on the planet - and runs literally *trillions* of times daily.
 The IR inspired Google's V8 team (and thus is/has been in Chrome), the Graal compiler and other high profile compiler efforts.
 
 Despite this Sea of Nodes is not (to my knowledge) taught in compiler classes!
