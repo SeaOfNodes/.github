@@ -12,10 +12,10 @@ Despite this Sea of Nodes is not (to my knowledge) taught in compiler classes!
 This is my (and others!) effort to teach the compiler community the how's and why's of the Sea of Nodes.
 
 # Current ports (Sept 2024):
-* [The main Java repo][https://github.com/SeaOfNodes/Simple] - The most complete repo
-* [Go repo][https://github.com/SeaOfNodes/Simple-Go]
-* [Rust repo][https://github.com/SeaOfNodes/Simple-Rust]
-* [Cpp repo][https://github.com/SeaOfNodes/Simple-Cpp]
+* [The main Java repo](https://github.com/SeaOfNodes/Simple) - The most complete repo
+* [Go repo](https://github.com/SeaOfNodes/Simple-Go)
+* [Rust repo](https://github.com/SeaOfNodes/Simple-Rust)
+* [Cpp repo](https://github.com/SeaOfNodes/Simple-Cpp)
 
 ### Reading material:
 
